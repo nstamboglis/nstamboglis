@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @nstamboglis
+**Hi there, I'm Nick**
+
+- 👋 Hi, Welcome to my @nstamboglis GitHub Account
 - 👀 I’m interested in data science, machine learning, leadership & economics
 - 🌱 I’m currently learning SQL, GIT and Python
 - 💞️ I’m looking to collaborate on machine learning, R or python open source projects
